@@ -29,7 +29,7 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: black;
   width: 400px;
 }
 
@@ -68,9 +68,9 @@ body {
 .project_link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: black;
 }
 
 .project_link {
@@ -114,7 +114,7 @@ body {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: black;
   margin-bottom: 10px;
 }
 
@@ -127,9 +127,9 @@ body {
 .work_list_item {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
-  color: #595959;
+  color: black;
 }
 
 /* education style */
@@ -210,7 +210,7 @@ body {
   color: floralwhite;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   text-decoration: none;
 }
@@ -243,7 +243,11 @@ body {
 .languages_text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #ffffff;
+}
+
+.contacts p {
+  margin: 0;
 }
